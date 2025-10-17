@@ -33,3 +33,4 @@ fun TataletakColumn(modifier: Modifier) {
         Text(text = "Komponen4")
     }
 }
+
